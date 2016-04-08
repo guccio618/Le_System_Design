@@ -3,7 +3,7 @@ import java.util.HashMap;
 import java.util.List;
 
 
-public class Li_5_4_Rate_Limiter {
+public class Li_4_4_Rate_Limiter {
 	private HashMap<String, List<Integer>> map = new HashMap<String , List<Integer>>();
 	
 	public boolean isRatelimited(int timestamp, String event, String rate, boolean increment) {

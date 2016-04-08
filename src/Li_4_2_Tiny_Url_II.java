@@ -1,7 +1,7 @@
 import java.util.HashMap;
 
 
-public class Li_5_2_Tiny_Url_II {
+public class Li_4_2_Tiny_Url_II {
 	private HashMap<Long, String> id2url = new HashMap<Long, String>();
     private HashMap<String, Long> url2id = new HashMap<String, Long>();
 

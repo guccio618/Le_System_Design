@@ -1,12 +1,12 @@
 import java.util.HashMap;
 
 
-public class Li_5_1_Tiny_Url {
+public class Li_4_1_Tiny_Url {
 	private static int globalId = 0; 
     private HashMap<Integer, String> id2Url; 
     private HashMap<String, Integer> url2Id;
     
-    public Li_5_1_Tiny_Url(){
+    public Li_4_1_Tiny_Url(){
         id2Url = new HashMap<Integer, String>();
         url2Id = new HashMap<String, Integer>();
     }

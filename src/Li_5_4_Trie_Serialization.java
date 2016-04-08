@@ -5,7 +5,7 @@ import java.util.Stack;
 import java.util.TreeMap;
 
 
-public class Li_6_4_Trie_Serialization {
+public class Li_5_4_Trie_Serialization {
 	public String serialize(TrieNode root) {
         if (root == null)
             return "";

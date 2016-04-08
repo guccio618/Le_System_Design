@@ -1,7 +1,7 @@
-public class Li_6_3_Implement_Trie {
+public class Li_5_3_Implement_Trie {
 	private TrieNode1 root;
 
-	public Li_6_3_Implement_Trie() {
+	public Li_5_3_Implement_Trie() {
 		root = new TrieNode1();
 	}
 

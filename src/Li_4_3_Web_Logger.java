@@ -1,9 +1,9 @@
 import java.util.LinkedList;
 
 
-public class Li_5_3_Web_Logger {
+public class Li_4_3_Web_Logger {
 	private LinkedList<Integer> timestamps;
-    public Li_5_3_Web_Logger() {
+    public Li_4_3_Web_Logger() {
         // initialize your data structure here.
         timestamps = new LinkedList<Integer>();
     }

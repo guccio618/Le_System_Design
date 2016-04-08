@@ -9,7 +9,7 @@ import java.lang.Thread;
 import java.net.*;
 import java.io.*;
 
-public class Li_6_6_Webpage_Crawler {
+public class Li_5_6_Webpage_Crawler {
 	/**
 	 * @param url: a url of root page
 	 * @return all urls

@@ -1,7 +1,7 @@
 import java.util.HashMap;
 
 
-public class Li_5_5_LRU_Cache {
+public class Li_4_5_LRU_Cache {
 	private class Node{
         Node prev;
         Node next;
@@ -21,7 +21,7 @@ public class Li_5_5_LRU_Cache {
     private Node head = new Node(-1, -1);
     private Node tail = new Node(-1, -1);
 	
-    public Li_5_5_LRU_Cache(int capacity) {
+    public Li_4_5_LRU_Cache(int capacity) {
         this.capacity = capacity;
         tail.prev = head;
         head.next = tail;

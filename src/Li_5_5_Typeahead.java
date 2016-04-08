@@ -4,10 +4,10 @@ import java.util.List;
 import java.util.Set;
 
 
-public class Li_6_5_Typeahead {
+public class Li_5_5_Typeahead {
 	private HashMap<String, List<String>> map = new HashMap<String , List<String>>();
     // @param dict A dictionary of words dict
-    public Li_6_5_Typeahead(Set<String> dict) {
+    public Li_5_5_Typeahead(Set<String> dict) {
         // do initialize if necessary
         for (String str : dict) {
             int len = str.length();
